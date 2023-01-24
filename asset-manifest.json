@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-CRUDApp/static/css/main.ca3f1282.css",
+    "main.js": "/React-CRUDApp/static/js/main.3d6adf79.js",
+    "index.html": "/React-CRUDApp/index.html",
+    "main.ca3f1282.css.map": "/React-CRUDApp/static/css/main.ca3f1282.css.map",
+    "main.3d6adf79.js.map": "/React-CRUDApp/static/js/main.3d6adf79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca3f1282.css",
+    "static/js/main.3d6adf79.js"
+  ]
+}
